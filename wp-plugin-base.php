@@ -15,4 +15,4 @@ if ( ! defined( 'ABSPATH' ) )
 
 define( 'WPPB_PATH', plugin_dir_path( __FILE__ ) );
 
-require_once 'inc/rbc-functions.php';
+require_once 'inc/wppb-functions.php';
